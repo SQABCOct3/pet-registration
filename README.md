@@ -1,7 +1,6 @@
-#Java Project
-##Base Point for Java Applications
+#Pet Registration System
 
-*Project for creating Java Applications which do common tasks.*
+*Pet Registration System which registers a pet into the system.*
 
 **Java 7**
 
